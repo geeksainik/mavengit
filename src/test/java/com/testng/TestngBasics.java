@@ -38,6 +38,7 @@ public class TestngBasics {
 	public void test()
 	{
 		System.out.println("this is test");
+		System.out.println("This is added to check pull");
 	}
 
 
